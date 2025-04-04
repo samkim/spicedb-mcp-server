@@ -7,6 +7,9 @@ A Model Context Protocol (MCP) server that connects to [SpiceDB](https://authzed
 
 ## Features
 
+> [!NOTE]
+> Everything in this repo was almost entirely created by Claude 3.5 Sonnet. Any quirks, unusual patterns, or potential errors are direct artifacts of LLM-based generation.
+
 - **Resources**:
   - Schema retrieval with associated object definition resources
   - Relationship queries with interactive relationship resources
