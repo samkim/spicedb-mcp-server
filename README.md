@@ -132,6 +132,14 @@ yarn start
 
 "Can you explain the permission system schema?"
 
+#### Setup test scenarios
+
+"Setup the following scenario by writing the appropriate relationships: there is a new role "auditor" and user jared has that role"
+
+#### Preview compliance operations
+
+"The project pied_piper is now deprecated. Find all users who have some form of access to it and create a comprehensive list of users and their access"
+
 ## API Reference
 
 ### Resources
